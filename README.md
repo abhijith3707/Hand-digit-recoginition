@@ -20,4 +20,4 @@ Visualizing the Dataset
 Checking whether the Data is balanced or imbalanced
 Performing PCA and t-SNE
 Model building and training
-Conclusion The best model is Random Forest with 96.4% accuracy.
+
